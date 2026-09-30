@@ -1,7 +1,3 @@
----
-layout: default
-title: Política de Privacidad | Chat bot pedidos
----
 
 # Política de Privacidad
 
